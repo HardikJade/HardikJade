@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hardik Jade</h1>
-<h3 align="center">Current student with hands-on experience gained through a student-centric, growth-oriented Projects.
+<h4 align="center">Current student with hands-on experience gained through a student-centric, growth-oriented Projects.
     Self Taught Engineer Recognized for possessing a strong passion for continuing education initiatives and working
-    with future technology</h3>
+    with future technology</h4>
 
 <a href="#"><img align="right" width="32%" height="auto" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" /></a>
 - 🔭 I’m currently working on [Color Theory](https://www.sdeproject.tk/)
