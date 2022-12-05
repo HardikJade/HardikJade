@@ -4,7 +4,7 @@
     with future technology</h4>
 
 <a href="#"><img align="right" width="32%" height="auto" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" /></a>
-- 🔭 I’m currently working on [Color Theory](https://www.sdeproject.tk/)
+- 🔭 Worked on [Color Theory](https://www.mitsd.in/)
 
 - 🌱 I’m currently learning **Android**
 
