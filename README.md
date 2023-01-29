@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="y6j7KMt987kgMOpKf4fVsGW2qLk89VI_-9kSs81Drt4" />
 <h1 align="center">Hi 👋, I'm Hardik Jade</h1>
 <h4 align="center">Current student with hands-on experience gained through a student-centric, growth-oriented Projects.
     Self Taught Engineer Recognized for possessing a strong passion for continuing education initiatives and working
