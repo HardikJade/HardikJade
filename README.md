@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on [Team Phoenix](https://github.com/team-phoenix-devs)
 
 - 👨‍💻 All of my projects are available at
-[https://hardikjade.000webhostapp.com/](https://linktr.ee/hardik.jade)
+[https://linktr.ee/hardik.jade/](https://linktr.ee/hardik.jade)
 
 - 💬 Ask me about **Any Technical Stuff**
 
